@@ -1,0 +1,97 @@
+
+       .main-navbar{
+    border-bottom: 1px solid #ccc;
+}
+.main-navbar .top-navbar{
+    background-color: #ffffff61;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.main-navbar .top-navbar .brand-name{
+    color: #fff;
+}
+.main-navbar .top-navbar .nav-link{
+    color: #524f4f;
+    font-size: 16px;
+    font-weight: 500;
+}
+.input-group{
+    border:1px solid #524f4f;
+}
+.main-navbar .top-navbar .dropdown-menu{
+    padding: 0px 0px;
+    border-radius: 0px;
+}
+.main-navbar .top-navbar .dropdown-menu .dropdown-item{
+    padding: 8px 16px;
+    border-bottom: 1px solid #ccc;
+    font-size: 14px;
+}
+.main-navbar .top-navbar .dropdown-menu .dropdown-item i{
+    width: 20px;
+    text-align: center;
+    color: #2874f0;
+    font-size: 14px;
+}
+.main-navbar .navbar{
+    padding: 0px;
+    background-color: #ffc904;
+}
+.main-navbar .navbar .nav-item .nav-link{
+    padding: 8px 20px;
+    color: #000;
+    font-size: 15px;
+}
+
+.img-fluid{
+    height: 80px;
+    width: auto;
+    padding-left: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-navbar .top-navbar .nav-link{
+        font-size: 12px;
+        padding: 8px 10px;
+    }
+}
+.copy-right-sec{
+  padding: 1.8rem;
+    background:#ffc904;
+    color: #524f4f;
+    text-align: center;
+    border-top: 1px solid #524f4f;
+}
+.copy-right-sec a{
+  color: #524f4f;
+    font-weight: 500;
+}
+a{
+  text-decoration:none;
+}
+.footer-about p{
+  color: #524f4f;
+}
+
+body{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/001/874/132/original/abstract-geometric-white-background-free-vector.jpg);
+}
+///
+.container{
+  background-color: #F6F8FD;
+
+}
+.bill{
+  color: #333;
+  background-color: #ffc904;
+  border-radius: 100px;
+}
+.bg{background-color: #F6F8FD}
+.green{color: #fff ;font-weight: 680}
+ @media(max-width:567px){
+  .mobile{padding-top: 40px}}
+
+
+  .d-flex{
+    border-radius:14px;
+  }

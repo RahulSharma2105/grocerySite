@@ -1,0 +1,25 @@
+section{
+			background-image: url(https://static.vecteezy.com/system/resources/previews/001/874/132/original/abstract-geometric-white-background-free-vector.jpg);
+		}
+         .img-fluid{
+            width: 150px;
+            height: 150px !important;
+         }
+         .rounded-3{
+         	background-color: #ffcc00;
+         }
+         .dumy{
+         	font-size: .77rem;
+         }
+         .progress-bar{
+         	width: 80%
+         }
+         .rounded{
+             height: 5px;
+         }
+         .on{
+         	width: 72%
+         }
+         .fa-pencil-square-o{
+                   padding-left: 40px;
+         }
